@@ -42,8 +42,7 @@ Minha identidade une **profissionalismo**, **clareza técnica** e uma estética 
 
 # 🜉 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Samantthhaa\&show_icons=true\&theme=tokyonight\&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samantthhaa\&layout=compact\&theme=tokyonight\&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samantthhaa)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
