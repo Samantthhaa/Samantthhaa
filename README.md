@@ -1,51 +1,55 @@
-# 🦇✨ **Samantha Fontainha** — Desenvolvedora de Software ✨🦇
+# 🦇 **Samantha Fontainha** — Desenvolvedora de Software
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-> *"Sob a luz da lua cheia, entre runas e glitch digital, escrevo código que dá vida a sistemas e transforma ideias em tecnologia."*
+<p align="center">
+  <em>"Sob a lua cheia, entre ecos digitais e símbolos antigos, construo soluções onde lógica e mistério coexistem."</em>
+</p>
 
 ---
 
-# 🌑 **Sobre Mim**
+# 🌘 Sobre Mim
 
-Sou a **Samantha**, tenho **20 anos**, e sou uma desenvolvedora apaixonada pelo lado profundo e estruturado da tecnologia. Trabalho principalmente com **C#** e desenvolvimento **Backend**, mas também domino **JavaScript**, **Java**, e consigo atuar como **Full Stack** sempre que necessário.
+Sou a **Samantha**, desenvolvedora de **20 anos**, movida pela busca de sistemas elegantes, organizados e tecnicamente sólidos.
+O meu foco principal é no desenvolvimento **Backend com C#**, mas também tenho experiência em **JavaScript**, **Java** e consigo atuar como **Full Stack** quando o projeto exige.
 
-Além do desenvolvimento, possuo experiência com **Ubuntu**, **Windows Server**, e ambientes técnicos voltados para servidores, infraestrutura e otimização.
+Além de programação, trabalho com **Ubuntu**, **Windows Server** e ambientes de **servidores**, administração básica, arquiteturas e otimizações.
 
-Meu estilo une **profissionalismo**, **organização**, e uma estética **dark gótica moderna**, refletindo minha personalidade e forma de trabalhar.
+Minha identidade une **profissionalismo**, **clareza técnica** e uma estética própria, inspirada no **dark gótico digital** — uma fusão de sombras, neon e glitch.
 
 ---
 
-# 🛡️ **Tech Stack — Dark Gothic Edition**
+# 🕯️ Linguagens
 
-### **💻 Linguagens**
+![C#](https://img.shields.io/badge/C%23-6A0DAD?style=for-the-badge\&logo=csharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-C9A227?style=for-the-badge\&logo=javascript)
+![Java](https://img.shields.io/badge/Java-5A0000?style=for-the-badge\&logo=java)
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java)
+# 🔮 Frameworks & Ferramentas
 
-### **🧰 Frameworks & Ferramentas**
+![.NET](https://img.shields.io/badge/.NET-4B0082?style=for-the-badge\&logo=dotnet)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-4B0082?style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-234F32?style=for-the-badge\&logo=androidstudio)
+![VS Code](https://img.shields.io/badge/VS%20Code-1E1E2E?style=for-the-badge\&logo=visualstudiocode)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2D0A49?style=for-the-badge\&logo=visualstudio)
+![SQL](https://img.shields.io/badge/SQL-1C2C49?style=for-the-badge\&logo=mysql)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-3A0A0A?style=for-the-badge\&logo=ubuntu)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-16213E?style=for-the-badge\&logo=windows)
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
-![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91?style=for-the-badge\&logo=visualstudio)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=mysql)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge\&logo=windows)
+---
 
-# 📊 **Estatísticas**
+# 🜉 Estatísticas
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Samantha\&show_icons=true\&theme=tokyonight\&hide_border=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samantha\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
-# 💌 **Contato**
+# 💌 Contato
 
-* **Email:** (samanthafontainha@gmail.com)
+* **Email:** [samanthafontainha@gmail.com](mailto:samanthafontainha@gmail.com)
 
 ---
+
