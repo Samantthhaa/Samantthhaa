@@ -42,8 +42,8 @@ Minha identidade une **profissionalismo**, **clareza técnica** e uma estética 
 
 # 🜉 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Samantha\&show_icons=true\&theme=tokyonight\&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samantha\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Samantthhaa\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samantthhaa\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
