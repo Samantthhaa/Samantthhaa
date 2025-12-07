@@ -38,14 +38,6 @@ Minha identidade une **profissionalismo**, **clareza técnica** e uma estética 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-3A0A0A?style=for-the-badge\&logo=ubuntu)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-16213E?style=for-the-badge\&logo=windows)
 
----
-
-# 🜉 Estatísticas
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samantthhaa)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 # 💌 Contato
 
 * **Email:** [samanthafontainha@gmail.com](mailto:samanthafontainha@gmail.com)
